@@ -3,6 +3,22 @@ background: #F4F4F4;
 margin: 0;
 }
 
+div {}
+.maintext { font-family: "Times New Roman", serif; font-size: 16pt; }
+.font1 { font-size: 14pt; display:inline;}
+.font2 { font-size: 12pt; display:inline;}
+.font3 { font-size: 10pt; display:inline;}
+
+#tablecont A 
+   {
+    text-decoration: none; 
+    color: black;
+   } 
+
+#tablecont A:hover { 
+    color: gray; 
+   } 
+
 #container { 
 width: 780px;
 margin: 0 auto;
@@ -93,3 +109,5 @@ color: #666666;
 font-size:11px;
 color:#FFFFFF;
 }
+
+
